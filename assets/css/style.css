@@ -1,0 +1,26 @@
+body {
+  background: url("../images/congruent_pentagon.png");
+}
+
+.page-header {
+  border-bottom: 1px solid #69A981;
+}
+
+.title {
+  color: #69A981;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 1px #305C41;
+}
+
+.panel-title {
+  font-weight: bold;
+}
+
+#game {
+  display: none;
+}
+
+.img {
+  padding-bottom: 20px;
+}
