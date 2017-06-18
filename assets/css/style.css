@@ -21,6 +21,10 @@ body {
   display: none;
 }
 
-.img {
+.img-row {
   padding-bottom: 20px;
+}
+
+.img {
+  width: 64px;
 }
